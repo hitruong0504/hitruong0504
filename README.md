@@ -37,16 +37,18 @@
 
 ### 🎬 **Movie Chatbot (Fine-Tuned Llama-2)**  
 🤖 A chatbot fine-tuned on **Llama-2** for **movie-related conversations**  
-🔗 **[GitHub Repository](https://github.com/hitruong0504/film-chatbot)**  
-🐳 **Docker Image**: `hitruong05/movie-chatbot`  
+🔗 **GitHub Repository:** [film-chatbot](https://github.com/hitruong0504/film-chatbot)  
+🐳 **Docker Image:** `hitruong05/movie-chatbot`  
 
-## 🎥 **Movie Recommender System**  
+### 🎥 **Movie Recommender System**  
 📽️ A **content-based** movie recommendation system using **cosine similarity**  
-🔗 **[GitHub Repository](https://github.com/hitruong0504/movie-recommender-system)**  
-🐳 **Docker Image**: `hitruong05/movie-recommender-system`
+🔗 **GitHub Repository:** [movie-recommender-system](https://github.com/hitruong0504/movie-recommender-system)  
+🐳 **Docker Image:** `hitruong05/movie-recommender-system`  
+
 ---
 
-## 🌍 Connect with Me   
+## 🌍 Connect with Me  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/hitruong/)  
 
 ---
