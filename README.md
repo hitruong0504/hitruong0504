@@ -40,7 +40,7 @@
 🔗 **[GitHub Repository](https://github.com/hitruong0504/film-chatbot)**  
 🐳 **Docker Image**: `hitruong05/movie-chatbot`  
 
-### 🎥 **Movie Recommender System**  
+## 🎥 **Movie Recommender System**  
 📽️ A **content-based** movie recommendation system using **cosine similarity**  
 🔗 **[GitHub Repository](https://github.com/hitruong0504/movie-recommender-system)**  
 🐳 **Docker Image**: `hitruong05/movie-recommender-system`
